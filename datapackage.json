@@ -318,7 +318,7 @@
       "hash": "6c6dd3ee99c2b47cf82a76a24c63992a",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/uk-united-kingdom-2007-2013-erdf-esf/concat.csv",
       "schema": {
         "fields": [
           {
