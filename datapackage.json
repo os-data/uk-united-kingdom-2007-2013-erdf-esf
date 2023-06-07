@@ -11,6 +11,11 @@
     "nuts_code": "UK",
     "region": "UNITED KINGDOM"
   },
+  "countryCode": "UK",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "hash": "0d714488a6c7a17bb26d643f098e4fcb",
   "language": "en",
   "model": {
